@@ -1,1 +1,1 @@
-# python
+Nesse repositório está todos os projetos ou exercícios utilizando a linguagem Python.
