@@ -1,1 +1,1 @@
-Nesse repositório está todos os projetos ou exercícios utilizando a linguagem Python.
+Nesse repositório está todos os projetos e/ou exercícios utilizando a linguagem Python.
